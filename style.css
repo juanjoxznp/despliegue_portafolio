@@ -905,6 +905,7 @@ body {
     width: 100%;
     margin: 0;
     padding: 0;
+    flex-wrap: wrap;
   }
   .container-navbar1 {
     padding-left: 1.5rem;
@@ -920,7 +921,7 @@ body {
   }
 
   .navbar > li > a {
-    font-size: 5px;
+    font-size: 12px;
   }
 
   .saludo {
@@ -942,7 +943,7 @@ body {
   }
 
   .about {
-    font-size: 9px;
+    font-size: 9.5px;
     color: white;
     text-align: center;
   }
